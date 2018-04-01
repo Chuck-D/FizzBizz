@@ -1,1 +1,1 @@
-# FizzBizz
+# FizzBuzz
